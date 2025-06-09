@@ -1,4 +1,4 @@
-# fin101
+# Sector Analysis 01
 Mini projects to learn more about the market through data
 # Global Equity Sector Analysis
 
