@@ -1,5 +1,5 @@
 # Sector Analysis 01
-Mini projects to learn more about the market through data
+Start to a series of mini projects to learn more about the market through data
 # Global Equity Sector Analysis
 
 A comprehensive Python code for analyzing global equity markets, providing insights into sector distributions, country breakdowns, and industry trends across international stock markets.
