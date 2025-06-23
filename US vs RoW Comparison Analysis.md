@@ -146,6 +146,7 @@ The comparative analysis between the US and the Rest of the World across Financi
 This is in terms of industry structure and investment opportunity section, which shows the interaction between both geography and industry in shaping investment portfolios:
 
 -This makes the US a financial hub, presenting size, liquidity and innovation.
+
 -The Rest of the World embodies transnational supply chains and diversity and growth potentials in industrial production and materials and has access to a rich endowment of natural resources.
 
 To investors and analysts, this means that US financial exposure needs to be balanced with global industrial and materials exposures in order to maximize growth, risk and returns which investors and analysts would have well-diversified portfolio.
