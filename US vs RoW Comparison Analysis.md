@@ -4,7 +4,7 @@
 
 ## Overview
 
-This analysis compares the United States (US) and the Rest of the World (RoW) across three key industries: **Financials**, **Industrials**, and **Materials**. Data is based on a global dataset of 35,600 companies.
+With reference to GEM3.py This analysis compares the United States (US) and the Rest of the World (RoW) across three key industries: **Financials**, **Industrials**, and **Materials**. Data is based on a global dataset of 35,600 companies.
 
 ---
 
