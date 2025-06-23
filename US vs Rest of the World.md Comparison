@@ -1,0 +1,172 @@
+# US vs Rest of World Comparison — Target Industries Analysis
+
+---
+
+## Overview
+
+This analysis compares the United States (US) and the Rest of the World (RoW) across three key industries: **Financials**, **Industrials**, and **Materials**. Data is based on a global dataset of 35,600 companies.
+
+---
+
+## 1. Overall Industry Presence
+
+| Region          | Number of Companies | Percentage (%) |
+|-----------------|---------------------|----------------|
+| Rest of World   | 25,302              | 71.1           |
+| United States   | 10,298              | 28.9           |
+
+- The Rest of the World hosts over 70% of companies in the target sectors, indicating a broad geographic distribution.
+- The US accounts for about 29%, reflecting a concentrated but significant presence.
+
+---
+
+## 2. Sector-wise Company Distribution
+
+| Sector       | US Count | US %  | RoW Count | RoW %  |
+|--------------|----------|-------|-----------|--------|
+| Financials   | 7,394    | 54.5  | 6,161     | 45.5   |
+| Industrials  | 2,045    | 18.2  | 9,187     | 81.8   |
+| Materials    | 859      | 7.9   | 9,954     | 92.1   |
+
+- **Financials**: The US leads with 54.5% of companies.
+- **Industrials**: The RoW dominates with 81.8%.
+- **Materials**: RoW overwhelmingly dominates with 92.1%.
+
+---
+
+## 3. Market Capitalization Snapshot
+
+### United States Market Cap Highlights:
+
+- Mega Cap: 95 companies (1.0%)
+- Large Cap: 1,128 companies (11.6%)
+- Mid Cap: 968 companies (9.9%)
+- Small Cap: 3,295 companies (33.8%)
+- Micro Cap: 1,589 companies (16.3%)
+- Nano Cap: 2,662 companies (27.3%)
+
+### Rest of World Market Cap Highlights:
+
+- Mega Cap: 18 companies (0.1%)
+- Large Cap: 2,601 companies (11.0%)
+- Mid Cap: 3,352 companies (14.1%)
+- Small Cap: 5,087 companies (21.4%)
+- Micro Cap: 5,176 companies (21.8%)
+- Nano Cap: 7,494 companies (31.6%)
+
+---
+
+## 4. Sector-specific Market Cap Observations
+
+### Financials
+
+| Market Cap | US Count | US %  | RoW Count | RoW %  |
+|------------|----------|-------|-----------|--------|
+| Mega Cap   | 94       | 1.4   | 9         | 0.2    |
+| Large Cap  | 460      | 6.6   | 1,050     | 19.8   |
+| Mid Cap    | 457      | 6.6   | 1,027     | 19.4   |
+| Small Cap  | 2,803    | 40.5  | 1,045     | 19.7   |
+| Micro Cap  | 1,279    | 18.5  | 840       | 15.8   |
+| Nano Cap   | 1,827    | 26.4  | 1,335     | 25.2   |
+
+### Industrials
+
+| Market Cap | US Count | US %  | RoW Count | RoW %  |
+|------------|----------|-------|-----------|--------|
+| Mega Cap   | 1        | 0.1   | 8         | 0.1    |
+| Large Cap  | 525      | 26.3  | 841       | 9.6    |
+| Mid Cap    | 390      | 19.5  | 1,415     | 16.2   |
+| Small Cap  | 337      | 16.9  | 2,420     | 27.7   |
+| Micro Cap  | 195      | 9.8   | 2,070     | 23.7   |
+| Nano Cap   | 548      | 27.5  | 1,982     | 22.7   |
+
+### Materials
+
+| Market Cap | US Count | US %  | RoW Count | RoW %  |
+|------------|----------|-------|-----------|--------|
+| Mega Cap   | 0        | 0.0   | 1         | 0.0    |
+| Large Cap  | 143      | 17.4  | 710       | 7.3    |
+| Mid Cap    | 121      | 14.7  | 910       | 9.4    |
+| Small Cap  | 155      | 18.9  | 1,622     | 16.7   |
+| Micro Cap  | 115      | 14.0  | 2,266     | 23.4   |
+| Nano Cap   | 287      | 35.0  | 4,177     | 43.1   |
+
+---
+
+## 5. Industry Breakdown Highlights
+
+### Financials
+
+| Industry               | US Count | RoW Count | US %  | RoW %  |
+|------------------------|----------|-----------|-------|--------|
+| Diversified Financials | 5,581    | 3,743     | 59.9  | 40.1   |
+| Banks                  | 1,464    | 1,657     | 46.9  | 53.1   |
+| Insurance              | 348      | 754       | 31.6  | 68.4   |
+
+### Industrials
+
+| Industry                       | US Count | RoW Count | US %  | RoW %  |
+|--------------------------------|----------|-----------|-------|--------|
+| Capital Goods                  | 1,216    | 6,186     | 16.4  | 83.6   |
+| Transportation                 | 331      | 1,708     | 16.2  | 83.8   |
+| Commercial & Professional Services | 498 | 1,287     | 27.9  | 72.1   |
+
+### Materials
+
+| Industry  | US Count | RoW Count | US %  | RoW %  |
+|-----------|----------|-----------|-------|--------|
+| Materials | 859      | 9,949     | 7.9   | 92.1   |
+
+---
+
+## Conclusion & Key Takeaways
+
+The comparative analysis between the US and the Rest of the World across Financials, Industrials, and Materials reveals distinct structural advantages and market dynamics that any finance professional or investor should carefully consider:
+
+### Financials: US as a Global Financial Powerhouse
+
+- US has a controlling share (54.5%) of all financial companies in the world with a firm grip in diversified financial services (60% US market share). This partly highlights the US as a global financial innovation center, where developed capital markets, a broad financial platform and a developed ecosystem support a diversified variety of financial products and services.
+- The US concentration of mega and large-cap financial companies signifies pools of deep liquidity and the trust of institutional investors, which is essential to large-value allocation and risk management policy.
+- Financial innovativeness and stability-oriented investors may focus preferences on US financial firms but also perceive the banks and the insurance industries in RoW to provide a useful source of diversification.
+
+### Industrials: A Globally Distributed Manufacturing Landscape
+
+- More than 80 percent of industrial firms are based outside the US, mainly in Europe, Asia, and emerging markets, so the international industrial footprint is driven by cost arbitrage, supply chain design, and regional specialization.
+- The US industrial markets are heavily skewed to larger-cap companies, suggesting mature industrial players, in contrast to RoW, which has more of a wide range of small and mid-sized industrial players.
+- This segmentation implies that industrial investments in RoW may hold greater growth opportunities and diversification, whereas, US industrials are stable and provide a large scale.
+
+### Materials: Resource Richness Beyond US Borders
+
+- The geographic distribution of natural sources is reflected by the predominant representation of the material companies in RoW (92.1%). Drive of this sector is by countries that are abundant in mining and chemicals and raw materials.
+- The larger RoW presence of smaller market cap companies suggests a fractured abundant resource market, which provides a chance either in new players in materials or specialty commodities.
+- Strategically, a position in RoW materials firms provides a strategic way to play commodities and to hedge inflation, and the US materials industry is relatively small and fairly concentrated.
+
+### Personal Thoughts
+
+This is in terms of industry structure and investment opportunity section, which shows the interaction between both geography and industry in shaping investment portfolios:
+
+-This makes the US a financial hub, presenting size, liquidity and innovation.
+-The Rest of the World embodies transnational supply chains and diversity and growth potentials in industrial production and materials and has access to a rich endowment of natural resources.
+
+To investors and analysts, this means that US financial exposure needs to be balanced with global industrial and materials exposures in order to maximize growth, risk and returns which investors and analysts would have well-diversified portfolio.
+
+---
+
+## 📊 Data Source
+
+I would like to thank **Jerbouma** for providing me with this database to help kick start my journey.
+
+This project uses the **Finance Database** which provides:
+
+- 300,000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies, and Money Markets
+- 180+ countries, 100+ sectors, 1000+ industries
+- Real-time data access
+
+---
+
+## 📋 Future Directions
+
+- Integrate additional financial metrics such as ratios,  revenue, profitability, and ESG scores for deeper insights.
+
+---
+
